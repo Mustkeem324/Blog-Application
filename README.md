@@ -2,6 +2,10 @@
 
 A simple and responsive blog application built with React. This application allows users to view a list of posts, view details of individual posts, and create new posts. It also includes basic error handling, private routes, and SEO improvements.
 
+##DEMO 
+![IMAGE](image1.png)
+![IMAGE](image2.png)
+
 ## Features
 
 - **Post List**: View a list of all blog posts.
